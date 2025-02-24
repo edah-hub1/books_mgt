@@ -19,7 +19,7 @@
     python manage.py runserver
     
 5. Use Postman to test the API endponds
-GET:  /api/books/     to get all books
+GET: || /api/books/ ||    to get all books
 POST:  /api/books/    to get all books    
 GET:   /api/books/1/  to get a book by id
 PUT:   /api/books/1/   to update a book
